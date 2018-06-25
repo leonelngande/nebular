@@ -18,7 +18,7 @@ To install ngx-admin on your machine you need to have the following tools instal
 <div class="note note-warning">
   <div class="note-title">Warning!</div>
   <div class="note-body">
-    Please note that **it is not possible** to build ngx-admin **without these tools** and it will not be possible because of the way how Angular is built.
+    Please note that **it is not possible** to build ngx-admin **without these tools** and it will not be possible because of the way Angular is built.
   </div>
 </div>
 <hr>
